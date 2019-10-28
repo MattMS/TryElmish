@@ -1,0 +1,6 @@
+.fable
+.ionide
+bin
+node_modules
+obj
+public/bundle.js
